@@ -5,7 +5,7 @@ This project analyzes the relationship between movie budgets and gross earnings 
 ## Project Structure
 1.Data Preparation
 
-*    Loading Data: The dataset is read from a CSV file containing movie information.
+*    Loading Data: The dataset is movies.csv file containing movie information.
 *    Handling Missing Data: Missing values in the budget and gross columns are handled by converting them to numeric values and filling missing entries with zeros.
 *    Data Type Conversion: The budget and gross columns are converted to integers for accurate analysis.
 *    Year Extraction: A new column, year_correct, is created to extract and format the release year of movies.
