@@ -38,23 +38,22 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
+
 You can install the necessary libraries using pip:
 
+*     pip install pandas numpy matplotlib seaborn
 
-pip install pandas numpy matplotlib seaborn
-Usage
 Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/movie-correlation-project.git
+
+*     git clone https://github.com/kaurn6538/Movie-Correlation-Pyton-Project.git
+
 Navigate to the project directory:
-bash
-Copy code
-cd movie-correlation-project
+
+
+*     cd movie-correlation-project
 Ensure you have the required libraries installed and run the script to perform the analysis:
-bash
-Copy code
-python movie_correlation_analysis.py
+
+*     python movie_correlation_analysis.py
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
