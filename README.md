@@ -30,6 +30,7 @@ This project analyzes the relationship between movie budgets and gross earnings 
 ## Key Findings
 
 1.High Correlation: Votes and budget have the highest correlation with gross earnings.
+
 2.Low Correlation: The company feature has low correlation with gross earnings.
 
 ## Requirements
