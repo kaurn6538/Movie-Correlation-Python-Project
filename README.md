@@ -3,7 +3,7 @@
 This project analyzes the relationship between movie budgets and gross earnings using Python. The objective is to understand how different features, such as budget, gross earnings, and others, correlate with each other. This analysis helps in identifying patterns and trends in movie data, which can be valuable for making informed decisions in the film industry.
 
 ## Project Structure
-1. Data Preparation
+1.Data Preparation
 
 *    Loading Data: The dataset is read from a CSV file containing movie information.
 *    Handling Missing Data: Missing values in the budget and gross columns are handled by converting them to numeric values and filling missing entries with zeros.
@@ -29,8 +29,8 @@ This project analyzes the relationship between movie budgets and gross earnings 
 
 ## Key Findings
 
-High Correlation: Votes and budget have the highest correlation with gross earnings.
-Low Correlation: The company feature has low correlation with gross earnings.
+1.High Correlation: Votes and budget have the highest correlation with gross earnings.
+2.Low Correlation: The company feature has low correlation with gross earnings.
 
 ## Requirements
 Python 3.x
@@ -54,7 +54,4 @@ Navigate to the project directory:
 Ensure you have the required libraries installed and run the script to perform the analysis:
 
 *     python movie_correlation_analysis.py
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
